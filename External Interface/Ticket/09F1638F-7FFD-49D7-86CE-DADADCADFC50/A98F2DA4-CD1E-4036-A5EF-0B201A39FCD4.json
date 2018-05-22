@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Semibold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 10,
+        "location": 0
+      }
+    ],
+    "string": "Step three"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A98F2DA4-CD1E-4036-A5EF-0B201A39FCD4",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4760DDC4-089C-4A0F-B233-B6BA3507839E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DE23189-7F94-4022-A54C-30FA74496765",
+    "height": 23,
+    "width": 80,
+    "x": 168,
+    "y": 293
+  },
+  "glyphBounds": "{{0, 5}, {80, 17}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Step three Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9470E785-7B3A-4A42-8E91-D46C2B28708C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "76889896-00B0-46AF-9616-57C1E27F6D2A",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "0ED9512F-11CB-47EA-A88D-9FB2FE69ABD2",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Semibold",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "astronomy",
+          "type": "title"
+        },
+        "title": "Astronomy"
+      }
+    }
+  }
+}

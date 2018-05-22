@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.28,
+            "green": 0.28,
+            "red": 0.28
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "vor 2 Tagen"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "14224D60-6F9D-4861-86B2-566773A5EC8C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DDB6267-6E90-4797-80D1-FC5A7C07D18F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52CF866B-21FE-4AE0-BF38-DDE1090F1C9E",
+    "height": 17,
+    "width": 62,
+    "x": 158,
+    "y": 48
+  },
+  "glyphBounds": "{{0, 4}, {61, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "vor 2 Tagen",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A01BC75A-0721-4797-B233-A5D8228B248A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "CFF24D79-0084-41E6-BDBC-A3A359EB237D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "3736FFA0-7528-44DB-A00D-9AF4E9B57EE6",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.28,
+          "green": 0.28,
+          "red": 0.28
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 13
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "advertising",
+          "type": "title"
+        },
+        "title": "Advertising"
+      }
+    }
+  }
+}

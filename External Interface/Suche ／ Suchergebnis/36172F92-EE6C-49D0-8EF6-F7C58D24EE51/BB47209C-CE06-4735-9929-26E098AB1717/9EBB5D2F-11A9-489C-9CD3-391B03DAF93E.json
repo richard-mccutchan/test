@@ -1,0 +1,150 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.28,
+            "green": 0.28,
+            "red": 0.28
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "Laptop (34)"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9EBB5D2F-11A9-489C-9CD3-391B03DAF93E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C871716F-BA23-4FF8-8D8D-388D486086E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52BB0CCC-7803-4706-B501-1751849FF64A",
+    "height": 17,
+    "width": 155,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{1, 3}, {60, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Laptop (34)",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A42337B-C7D5-4A62-8240-999A7191F2EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "CFF24D79-0084-41E6-BDBC-A3A359EB237D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "BD8AC4FA-1C9B-4ECD-891D-74996770284F",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.28,
+          "green": 0.28,
+          "red": 0.28
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 13
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "data": [
+          "Microsoft Access",
+          "Microsoft Entourage",
+          "Microsoft Excel",
+          "Microsoft FrontPage",
+          "Microsoft InfoPath",
+          "Microsoft MapPoint",
+          "Microsoft Money",
+          "Microsoft Office shared tools",
+          "Microsoft Office Picture Manager",
+          "Office Assistant",
+          "Microsoft OneNote",
+          "Microsoft Outlook",
+          "Microsoft Power BI",
+          "Microsoft PowerPoint",
+          "Microsoft Project",
+          "Microsoft Publisher",
+          "Microsoft Response Point",
+          "Microsoft SharePoint Workspace",
+          "Microsoft Schedule+",
+          "Microsoft Sway",
+          "Microsoft Visio",
+          "Microsoft Vizact",
+          "Microsoft Word",
+          "Microsoft Works",
+          "Office 365",
+          "Dynamics 365",
+          "Outlook Web App",
+          "Skype for Business",
+          "Wunderlist"
+        ],
+        "icon": "crown",
+        "index": 17,
+        "preserveOrder": 1,
+        "title": "OTRS List 2",
+        "userDefined": 1
+      }
+    }
+  }
+}

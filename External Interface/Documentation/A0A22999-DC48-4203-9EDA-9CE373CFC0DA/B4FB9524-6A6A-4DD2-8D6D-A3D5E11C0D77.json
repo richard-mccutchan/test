@@ -1,0 +1,100 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3365000486373901,
+            "green": 0.3365047574043274,
+            "red": 0.3364960849285126
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Bold",
+              "size": 15
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          }
+        },
+        "length": 9,
+        "location": 0
+      }
+    ],
+    "string": "BLACK 30%"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B4FB9524-6A6A-4DD2-8D6D-A3D5E11C0D77",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20BDCCF9-E912-475F-AFAB-E46C7F9B406C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C196803-D9B7-4BBB-913A-2A30F080EE3E",
+    "height": 18,
+    "width": 88,
+    "x": 404,
+    "y": 649
+  },
+  "glyphBounds": "{{1, 4}, {86, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "BLACK 30%",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA89DE78-086A-458B-B043-4D4FDA3B89FC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "73AC62FF-759D-47EB-B41A-CD01E21C07D2",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3365000486373901,
+          "green": 0.3365047574043274,
+          "red": 0.3364960849285126
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue-Bold",
+            "size": 15
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle"
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

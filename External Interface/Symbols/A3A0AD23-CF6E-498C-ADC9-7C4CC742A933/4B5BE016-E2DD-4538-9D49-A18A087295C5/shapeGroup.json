@@ -1,0 +1,127 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "4B5BE016-E2DD-4538-9D49-A18A087295C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E6B276EE-95A0-4067-B572-D675D01C1489",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2C516F2-2B9D-4E74-8E9D-25EBFF81BC20",
+    "height": 130,
+    "width": 374,
+    "x": 58,
+    "y": 213
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4D648091-FE9A-4882-9047-D319A56D47CB"
+    }
+  ],
+  "name": "Rectangle 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592156862745098,
+          "green": 0.592156862745098,
+          "red": 0.592156862745098
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "8DD6D74E-67C0-4646-854F-4DEE20099B7D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.35,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      },
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

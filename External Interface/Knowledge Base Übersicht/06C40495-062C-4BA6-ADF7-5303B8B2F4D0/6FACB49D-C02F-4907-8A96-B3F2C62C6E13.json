@@ -1,0 +1,114 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 93,
+        "location": 0
+      }
+    ],
+    "string": "Como modificar una plantilla de condiciones para importar/exportar elementos de configuración"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6FACB49D-C02F-4907-8A96-B3F2C62C6E13",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "998F9532-262B-405F-B834-AC7A9CA1583F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03195FDE-FE90-4EC3-9D5C-29B02BB4F6C8",
+    "height": 48,
+    "width": 528,
+    "x": 100,
+    "y": 1144
+  },
+  "glyphBounds": "{{0, 6}, {455, 40}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Como modificar una p",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6FAC0B8-B3C7-46A1-88E4-804F4978071C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "23EA0509-3869-43DE-BCA9-7E5F26CC7656",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "7BD9AF88-CA03-4DD2-BB5F-55BC307DAFD2",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

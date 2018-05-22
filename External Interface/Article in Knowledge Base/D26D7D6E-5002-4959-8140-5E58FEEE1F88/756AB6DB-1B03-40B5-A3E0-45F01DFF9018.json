@@ -1,0 +1,78 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.28,
+            "green": 0.28,
+            "red": 0.28
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 85,
+        "location": 0
+      }
+    ],
+    "string": "Manec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "756AB6DB-1B03-40B5-A3E0-45F01DFF9018",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 712,
+    "x": 100,
+    "y": 1891
+  },
+  "glyphBounds": "{{1, 3}, {461, 13}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorejnkl.llklkm ipsum dolor si",
+  "nameIsFixed": true,
+  "resizingConstraint": 35,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "CFF24D79-0084-41E6-BDBC-A3A359EB237D"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

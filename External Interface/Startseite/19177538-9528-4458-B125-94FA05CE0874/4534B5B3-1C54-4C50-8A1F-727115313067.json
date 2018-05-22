@@ -1,0 +1,103 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Bold",
+              "size": 32
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          }
+        },
+        "length": 20,
+        "location": 0
+      }
+    ],
+    "string": "How can we help you?"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "4534B5B3-1C54-4C50-8A1F-727115313067",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "382E4585-713B-4DB9-9E8B-92388D7AA02A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CCDFBFA-6705-45B0-AB48-246A9B2BD7E0",
+    "height": 40,
+    "width": 310,
+    "x": 485,
+    "y": 193
+  },
+  "glyphBounds": "{{2, 8}, {307, 30}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "How can we help you?",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AA1988F-6E7D-45EA-8B9A-4F4085C5577F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "5FD7DCD9-45D9-48FF-B24E-929EB6106F1E",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "8F890B11-B43A-4983-A650-2A03A62E24D0",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Bold",
+            "size": 32
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

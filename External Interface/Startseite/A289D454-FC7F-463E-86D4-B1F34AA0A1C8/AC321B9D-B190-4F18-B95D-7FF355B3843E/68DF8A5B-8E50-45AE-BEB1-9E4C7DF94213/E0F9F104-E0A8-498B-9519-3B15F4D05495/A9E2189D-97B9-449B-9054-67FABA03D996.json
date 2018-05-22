@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Semibold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 16,
+        "location": 0
+      }
+    ],
+    "string": "Störung Parkhaus"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A9E2189D-97B9-449B-9054-67FABA03D996",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6986951-7587-4F3E-9C7C-6070552E83AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BEF6E4D-B50F-458B-9706-6833F8FBBB94",
+    "height": 23,
+    "width": 435.5962962962963,
+    "x": 24,
+    "y": 19
+  },
+  "glyphBounds": "{{0, 5}, {137, 17}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Linux Or Windows Whi",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F33AD058-0D64-49FD-8016-9EF7A2E9BA81",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "76889896-00B0-46AF-9616-57C1E27F6D2A",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "98F355D2-32D1-4F56-8ACF-9E1C8CC561E7",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Semibold",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "technology",
+          "type": "title"
+        },
+        "title": "Technology"
+      }
+    }
+  }
+}

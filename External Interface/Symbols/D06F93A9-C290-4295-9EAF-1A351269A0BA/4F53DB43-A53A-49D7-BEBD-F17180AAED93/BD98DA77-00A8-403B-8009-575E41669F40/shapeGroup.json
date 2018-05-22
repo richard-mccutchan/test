@@ -1,0 +1,134 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "BD98DA77-00A8-403B-8009-575E41669F40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A0D6AA7-55C1-40BF-8A2F-6A78BBE03471",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE879A5B-8AB8-424A-AA9F-7A446934E96E",
+    "height": 40,
+    "width": 128,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2121E942-F688-4B1F-9225-D1600C50867D"
+    }
+  ],
+  "name": "Rectangle 14 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.15,
+          "blue": 0.592156862745098,
+          "green": 0.592156862745098,
+          "red": 0.592156862745098
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "03561AD6-173E-4F3C-B7A2-E417D2762A20",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0.4156862745098039,
+          "green": 0.6941176470588235,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.35,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      },
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "908B6AAA-6287-4967-ADD2-0FCECDEEB6EC",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

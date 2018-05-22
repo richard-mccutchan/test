@@ -1,0 +1,115 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.28,
+            "green": 0.28,
+            "red": 0.28
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 12,
+        "location": 0
+      }
+    ],
+    "string": "Alle Tickets"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "D09C1900-823B-438A-BA37-244B235BE0A0",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E5E136E-484B-4FB7-9BBF-0FF2E5EF4A66",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8949BC49-30A8-4D98-9914-0EEC6D53FF0F",
+    "height": 17,
+    "width": 62,
+    "x": 12,
+    "y": 3
+  },
+  "glyphBounds": "{{0, 3}, {61, 11}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Alle Tickets",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EAE66B57-2529-4B46-BD5E-96B5F59054D5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "CFF24D79-0084-41E6-BDBC-A3A359EB237D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "02C71533-4E44-441F-A104-B31E7E053098",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.28,
+          "green": 0.28,
+          "red": 0.28
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 13
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "technology",
+          "type": "title"
+        },
+        "title": "Technology"
+      }
+    }
+  }
+}

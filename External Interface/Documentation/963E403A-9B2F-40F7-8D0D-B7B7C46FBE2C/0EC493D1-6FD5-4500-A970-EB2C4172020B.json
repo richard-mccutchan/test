@@ -1,0 +1,120 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 19,
+        "location": 0
+      }
+    ],
+    "string": "ITSM Knowledgebase "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "0EC493D1-6FD5-4500-A970-EB2C4172020B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66961C16-016D-418C-A014-979F15DCF328",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90BC2162-3FB6-4A56-874A-5CDA10981D85",
+    "height": 24,
+    "width": 344,
+    "x": 100,
+    "y": 517
+  },
+  "glyphBounds": "{{1, 6}, {141, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "ITSM Knowledgebase",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BAA3C4AE-F7C0-40A1-859A-B768EA15FEC6",
+      "opacity": 0.5
+    },
+    "do_objectID": "21136B38-ACB1-4339-AEBB-A018865583D3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "23EA0509-3869-43DE-BCA9-7E5F26CC7656",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "B2D666AF-5821-423C-8CD2-3EC8929071BC",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

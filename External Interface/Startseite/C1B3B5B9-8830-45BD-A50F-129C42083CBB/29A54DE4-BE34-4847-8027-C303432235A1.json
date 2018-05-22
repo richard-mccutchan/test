@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "29A54DE4-BE34-4847-8027-C303432235A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FB93FBC-EB3E-41E5-A796-CF186793B189",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64CC4A78-01C9-432A-9A8F-A716A4C72D97",
+    "height": 291,
+    "width": 252,
+    "x": 652,
+    "y": 1615
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists / Linklists Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B1149B69-FDBC-4F06-84CA-F17FC27B2486_stringValue",
+      "value": "Topic three"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC864D5C-2EB0-4C4B-8CE8-64508C0C7E2D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08259DEB-1AD1-4EA2-B7BF-4DF22E7DD993",
+  "verticalSpacing": 0
+}

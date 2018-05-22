@@ -1,0 +1,129 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8588235294117647,
+            "green": 0.6313725490196078,
+            "red": 0.01568627450980392
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          },
+          "strikethroughStyle": 0,
+          "underlineStyle": 1
+        },
+        "length": 23,
+        "location": 0
+      }
+    ],
+    "string": "One new unread message."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "4F9523A9-2864-4744-8800-89362897EE5B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0A683A5-63D0-4516-9763-7ADB009CB4E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B5773BB-F04A-45F5-9E6B-97396683BD30",
+    "height": 20,
+    "width": 559.9367660343271,
+    "x": 43.99785456187896,
+    "y": 11.75555555555556
+  },
+  "glyphBounds": "{{0, 4}, {175, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "One new unread messa",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "53481FEC-97D5-47C0-A3A0-C359C22DA891",
+      "opacity": 0.800000011920929
+    },
+    "do_objectID": "E5BD51A6-0754-4ADB-890C-1C539A13C787",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "BD43F997-07BE-44F2-98AC-045DD16C8E97",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "DC813EFA-0A00-44E0-8A35-FC23B533F93D",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.6313725490196078,
+          "red": 0.01568627450980392
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        },
+        "strikethroughStyle": 0,
+        "underlineStyle": 1
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "astronomy",
+          "type": "title"
+        },
+        "title": "Astronomy"
+      }
+    }
+  }
+}

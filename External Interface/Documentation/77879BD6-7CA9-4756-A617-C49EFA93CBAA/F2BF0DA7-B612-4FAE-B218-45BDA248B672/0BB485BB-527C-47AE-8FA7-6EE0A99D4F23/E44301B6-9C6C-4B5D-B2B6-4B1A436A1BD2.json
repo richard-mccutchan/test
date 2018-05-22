@@ -1,0 +1,119 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 40,
+        "location": 0
+      }
+    ],
+    "string": "Astronomy Binoculars A Great Alternative"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E44301B6-9C6C-4B5D-B2B6-4B1A436A1BD2",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "851F778D-6165-4CC0-87F8-44CC09A68EE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CAFA665-D3F9-4B7D-AF8F-43BFE9C4402B",
+    "height": 48,
+    "width": 250,
+    "x": 15,
+    "y": 318
+  },
+  "glyphBounds": "{{0, 6}, {199, 37}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Astronomy Binoculars",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2242F02E-7819-4BE7-BE45-F517EE0D4C50",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "23EA0509-3869-43DE-BCA9-7E5F26CC7656",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "22ACE347-C5F5-4E93-8272-43C6BB1875E3",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "astronomy",
+          "type": "title"
+        },
+        "title": "Astronomy"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "page",
+  "do_objectID": "B6C2BADB-3E28-4B5A-B8E4-D3696FBB88DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -570,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "46B0F9D0-88E4-4F9C-8260-FF47F7F7DC11"
+    },
+    {
+      "class": "artboard",
+      "id": "1C484B48-669A-428F-9C10-C6E201CC30C1"
+    },
+    {
+      "class": "artboard",
+      "id": "7F4ADB63-43B6-4EF5-B10E-EADAE9013B7F"
+    },
+    {
+      "class": "artboard",
+      "id": "59730C92-E507-4603-9671-0EA64565654B"
+    },
+    {
+      "class": "artboard",
+      "id": "99E21EA3-F265-4147-AC3F-A4AE64B36052"
+    },
+    {
+      "class": "artboard",
+      "id": "8C38927A-706C-48B3-804F-8229D6F9F994"
+    },
+    {
+      "class": "artboard",
+      "id": "C0FEDF53-FCD1-4709-B8DE-0751228194CA"
+    },
+    {
+      "class": "artboard",
+      "id": "09F1638F-7FFD-49D7-86CE-DADADCADFC50"
+    },
+    {
+      "class": "artboard",
+      "id": "C307478A-998E-4D46-BFDA-68A82B6261B4"
+    },
+    {
+      "class": "artboard",
+      "id": "EE934D8D-B48E-4C9D-B872-953DE2F58CF6"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50.41666666666666,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 25,
+    "guttersOutside": false,
+    "horizontalOffset": 200,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 880
+  },
+  "name": "Ticket",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -334,
+    "guides": [
+    ]
+  }
+}

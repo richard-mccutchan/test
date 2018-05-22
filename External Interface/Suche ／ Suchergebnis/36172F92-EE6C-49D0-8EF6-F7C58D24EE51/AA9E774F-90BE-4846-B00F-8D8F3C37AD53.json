@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "AA9E774F-90BE-4846-B00F-8D8F3C37AD53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5511FFDF-FB31-4CCE-972D-DFCF6109A09D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC9B5E65-E081-427D-842B-9CC77B44A4AF",
+    "height": 225,
+    "width": 1280,
+    "x": 2,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header_grey",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F91E40-6681-4A64-BB2C-8ED86B7ED6B1",
+      "overrideName": "1D7528F3-8D37-414D-946A-772A39A1E29C_stringValue",
+      "value": "Service Center"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F18AEF0B-BDBD-461A-983D-859BA48E5D7A",
+      "overrideName": "723ABBFC-F026-4B71-8BB8-D9C1C1C2B359_stringValue",
+      "value": "Kategorie ‣  Account"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C12C3B8D-BE37-48EA-99B8-7B0121ADF777",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08E6CFAD-3264-4867-8698-51FE65F42534",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

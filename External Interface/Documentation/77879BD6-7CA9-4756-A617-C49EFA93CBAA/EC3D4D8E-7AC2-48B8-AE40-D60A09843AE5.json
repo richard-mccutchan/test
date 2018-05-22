@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EC3D4D8E-7AC2-48B8-AE40-D60A09843AE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DD673E7-A066-49D5-9377-26EB1E7EE9BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EEF7168-C8EF-40D9-AADF-BFB8844A4F83",
+    "height": 299,
+    "width": 280,
+    "x": 305,
+    "y": 1050
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tiles / BildText_mobile Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4D4B4CD7-A146-4937-A492-D6D050ADD08F",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "63D471DB-053D-45F9-A190-A4A5708DF90A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E2849A03-0EAE-41AA-B310-22FE84BBCFDB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

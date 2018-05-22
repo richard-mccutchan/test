@@ -1,0 +1,326 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "headIndent": 36,
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 11,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 36,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 85,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 113,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 141,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 170,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 198,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 226,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 255,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 283,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 311,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 340,
+                "options": {
+                }
+              }
+            ],
+            "textLists": [
+              {
+                "_class": "textList",
+                "listOptions": 0,
+                "markerFormat": "{disc}"
+              }
+            ]
+          }
+        },
+        "length": 221,
+        "location": 0
+      }
+    ],
+    "string": "\t•\tLorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\t•\tAenean commodo ligula eget dolor\n\t•\tCum sociis natoque penatibus et magnis dis parturient montes\n\t•\tPellentesque eu, pretium quis, sem nulla consequat massa "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "25EE7338-95E8-4F23-A162-4BF6C53B41DC",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4E39D72-B338-48CF-A04E-BF4AFAB8D068",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98A80DEC-33B9-4FFC-A3B7-07958CC29FDA",
+    "height": 170,
+    "width": 712,
+    "x": 100,
+    "y": 904
+  },
+  "glyphBounds": "{{11, 14}, {442, 136}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "• Lorem ipsum dolor",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54E2B60C-C461-440E-A904-7821BC6A25E9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "23EA0509-3869-43DE-BCA9-7E5F26CC7656",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "EFC040E8-1882-43F8-8039-3AA8576339B0",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "headIndent": 36,
+          "maximumLineHeight": 40,
+          "minimumLineHeight": 40,
+          "tabStops": [
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 11,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 36,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 56,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 85,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 113,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 141,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 170,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 198,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 226,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 255,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 283,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 311,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 340,
+              "options": {
+              }
+            }
+          ],
+          "textLists": [
+            {
+              "_class": "textList",
+              "listOptions": 0,
+              "markerFormat": "{disc}"
+            }
+          ]
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "technology",
+          "type": "body"
+        },
+        "title": "Technology"
+      }
+    }
+  }
+}

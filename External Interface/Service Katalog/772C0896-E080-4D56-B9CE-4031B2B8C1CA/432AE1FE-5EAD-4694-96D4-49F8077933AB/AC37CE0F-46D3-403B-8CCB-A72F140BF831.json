@@ -1,0 +1,154 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.28,
+            "green": 0.28,
+            "red": 0.28
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 29,
+        "location": 0
+      }
+    ],
+    "string": "Microsoft Office shared tools"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AC37CE0F-46D3-403B-8CCB-A72F140BF831",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D4D7BA4-624E-4D7E-A1C2-3727FB719AC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3A27ACF-193A-4B35-B62A-34A2621ADCA3",
+    "height": 40,
+    "width": 144,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 4}, {104, 33}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Microsoft Office sha",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "616E71A3-CE1C-4446-B6BC-222032DA944F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "23EA0509-3869-43DE-BCA9-7E5F26CC7656",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "920E192B-C15D-40D8-8190-C9F8AFE39885",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.28,
+          "green": 0.28,
+          "red": 0.28
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "data": [
+          "Microsoft Access",
+          "Microsoft Entourage",
+          "Microsoft Excel",
+          "Microsoft FrontPage",
+          "Microsoft InfoPath",
+          "Microsoft MapPoint",
+          "Microsoft Money",
+          "Microsoft Office shared tools",
+          "Microsoft Office Picture Manager",
+          "Office Assistant",
+          "Microsoft OneNote",
+          "Microsoft Outlook",
+          "Microsoft Power BI",
+          "Microsoft PowerPoint",
+          "Microsoft Project",
+          "Microsoft Publisher",
+          "Microsoft Response Point",
+          "Microsoft SharePoint Workspace",
+          "Microsoft Schedule+",
+          "Microsoft Sway",
+          "Microsoft Visio",
+          "Microsoft Vizact",
+          "Microsoft Word",
+          "Microsoft Works",
+          "Office 365",
+          "Dynamics 365",
+          "Outlook Web App",
+          "Skype for Business",
+          "Wunderlist"
+        ],
+        "icon": "crown",
+        "index": 17,
+        "preserveOrder": 1,
+        "title": "OTRS List 2",
+        "userDefined": 1
+      }
+    }
+  }
+}

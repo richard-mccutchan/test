@@ -1,0 +1,70 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "09887F88-606D-42A8-8285-4C8C7A8FFB5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D6B5EAC-44E2-468F-94B9-84C3955128AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25D6609F-80A0-4AF4-B544-672CB0DA1297",
+    "height": 16,
+    "width": 15,
+    "x": 0.0646979104924128,
+    "y": 0.1021461456209494
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2F4C06E5-EB1A-4139-B1A1-D9BA4A76905D"
+    }
+  ],
+  "name": "Hand",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DCCDDBA-B841-45B9-A501-6FC5AB32B721",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "do_objectID": "FBA82967-EA05-4841-846F-1016D988BBDC",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FF7B49A5-E6DB-4F4E-B583-FD9D27DFBDF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "545D1D3D-3D5E-49F4-90DF-39F15447B376",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6280372-B669-4AFD-A8A0-42970EBC1D19",
+    "height": 426,
+    "width": 344,
+    "x": 101,
+    "y": 1039
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tiles / BildText",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "282429B2-FEFA-4549-8668-FE848A1BF65F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4AFD9810-15AF-40DC-9097-915385C24B78",
+  "verticalSpacing": 0
+}

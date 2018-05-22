@@ -1,0 +1,76 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "56FCC0C8-F857-4150-A447-DCEECC111469",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24DFE331-FC26-4CC3-B584-78CA908EF46D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1D2D05F4-F77A-4FCC-B17A-02FE3D76C7D1",
+    "height": 50,
+    "width": 182,
+    "x": 15,
+    "y": 10
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ecbdf249f3a20c72ce693a795d070750d074f016.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "13C950_100",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C0101F0E-6B12-46F8-911B-80B1FE67142B",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "71BFFA21-D0F3-4371-BC6D-18DFDEDE5AC1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 50,
+            "enabled": 1,
+            "modelID": "constraint_8a217b1d-3fef-4ccd-a997-aaf5e5df77ca",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 182
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_43ef9363-dc35-4721-b00b-344b432dd59c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

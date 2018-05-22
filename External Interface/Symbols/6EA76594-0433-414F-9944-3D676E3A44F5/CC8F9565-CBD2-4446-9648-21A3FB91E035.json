@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CC8F9565-CBD2-4446-9648-21A3FB91E035",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9B0E14C-9125-46D6-95D8-7C33D509B592",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2332A3E-E5FD-4114-B7CC-2D47F980590E",
+    "height": 28,
+    "width": 49,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Switch",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58024448-384B-4B09-B928-2E5D86C973F8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3AF3269F-A7C2-4A61-89D7-BC4E32BF85B2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1C602EF9-9B4F-40E3-A614-B122EAA53773",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02BEC422-DB2B-4151-91E8-956924385C3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00F72706-7645-414B-8667-B4E33793F70C",
+    "height": 225,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header_grey",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F91E40-6681-4A64-BB2C-8ED86B7ED6B1",
+      "overrideName": "1D7528F3-8D37-414D-946A-772A39A1E29C_stringValue",
+      "value": " Lorem Ipsum"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F18AEF0B-BDBD-461A-983D-859BA48E5D7A",
+      "overrideName": "723ABBFC-F026-4B71-8BB8-D9C1C1C2B359_stringValue",
+      "value": "Lorem Ipsum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "2892D5E0-8DF9-4CDE-997E-C108DB345621",
+      "opacity": 0.5
+    },
+    "do_objectID": "4324CA26-80B0-4575-A559-D38B73B253C5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08E6CFAD-3264-4867-8698-51FE65F42534",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

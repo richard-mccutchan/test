@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "92E33822-5797-4643-8E73-18D225D65315",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFF7340C-956F-4A90-82DE-029E5B44AF53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4059DC53-419F-437B-BD82-16AFB422F84B",
+    "height": 225,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header_grey",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A7DC5C1E-2AFE-45EF-AB2B-E86748350E1F",
+      "overrideName": "723ABBFC-F026-4B71-8BB8-D9C1C1C2B359_stringValue",
+      "value": "HelpCenter ‣ Services"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28F42A0A-C01B-4ECD-A35D-B974AC53AEEF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08E6CFAD-3264-4867-8698-51FE65F42534",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

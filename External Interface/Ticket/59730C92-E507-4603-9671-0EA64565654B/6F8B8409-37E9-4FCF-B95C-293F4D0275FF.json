@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6F8B8409-37E9-4FCF-B95C-293F4D0275FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A230074A-FD36-46EC-918D-E76EFAD886B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A327CAF-B04B-407C-82A0-1D6FF8C5A0E4",
+    "height": 88,
+    "width": 161,
+    "x": 1020,
+    "y": 657
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chips Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB21AB63-B69A-4196-A935-AB894F48A484",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "236900B3-830C-41FF-B36B-33D3D671B32D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

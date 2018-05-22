@@ -1,0 +1,58 @@
+{
+  "_class": "page",
+  "do_objectID": "190A4E72-81C1-4E11-B2E7-5C92AD5CB003",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -570,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "06C40495-062C-4BA6-ADF7-5303B8B2F4D0"
+    }
+  ],
+  "name": "Knowledge Base Übersicht",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -334,
+    "guides": [
+    ]
+  }
+}

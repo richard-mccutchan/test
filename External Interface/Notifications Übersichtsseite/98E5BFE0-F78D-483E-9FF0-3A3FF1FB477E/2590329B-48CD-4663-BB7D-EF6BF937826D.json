@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2590329B-48CD-4663-BB7D-EF6BF937826D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 225,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header / grey",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD369E71-7B8A-4810-BCFE-5C88156F52EE",
+      "overrideName": "723ABBFC-F026-4B71-8BB8-D9C1C1C2B359_stringValue",
+      "value": "IT Service Center ‣ Benachrichtigungen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BA7D4F9-4B8B-493D-A143-AC09ECF09757",
+      "overrideName": "1D7528F3-8D37-414D-946A-772A39A1E29C_stringValue",
+      "value": "Benachrichtigungen"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08E6CFAD-3264-4867-8698-51FE65F42534",
+  "verticalSpacing": 0
+}

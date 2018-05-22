@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "3A223433-5897-4E64-B0A6-B9A4BF55A02E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 161,
+    "x": 857,
+    "y": 518
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "966F5582-F909-4E0A-8E3B-F74E099AD598"
+    },
+    {
+      "class": "text",
+      "id": "24F985C2-65AE-49E4-95D2-99EFC95A5A2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08762139-08C8-4FF5-9C92-50FBAD308884"
+    },
+    {
+      "class": "text",
+      "id": "9EC6CC2C-130D-4CF0-971A-62C2A28EDADF"
+    },
+    {
+      "class": "text",
+      "id": "AAECA029-DFD0-402A-9AB0-975EFDE158FF"
+    }
+  ],
+  "name": "Chips",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DAA03F59-D29A-4B29-B2DC-351541357140",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CD96C25-F180-4E94-A4E0-454F3D4D8EE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "241BA7D3-1913-418C-A2C3-E12C1B3AC740",
+    "height": 84,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "NavigationBar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DAAB07D-E0C3-4142-8243-938DE7238891",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "52F44899-1FA8-4374-B9B0-62BEB5B5DF40",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

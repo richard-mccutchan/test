@@ -1,0 +1,125 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2980392156862745,
+            "green": 0.2980392156862745,
+            "red": 0.2980392156862745
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 36,
+        "location": 0
+      }
+    ],
+    "string": "Video Games Playing With Imagination"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B70AF3D3-73AD-4130-9E9F-5BD7B6D1A1FA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD35C176-422F-4B4F-BDB4-DA24CEF6F1A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB62F482-5443-41E9-8B05-F8FD0B5561B2",
+    "height": 20,
+    "width": 528,
+    "x": 0,
+    "y": 151
+  },
+  "glyphBounds": "{{0, 4}, {257, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Video Games Playing",
+  "nameIsFixed": false,
+  "resizingConstraint": 31,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "7E445FF8-0F2A-4EAA-9B45-846BE4AD5203",
+      "opacity": 0.800000011920929
+    },
+    "do_objectID": "36EA3DA1-5333-403D-A40C-6F747C41EDDC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "BD43F997-07BE-44F2-98AC-045DD16C8E97",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "C97B435A-BAF5-47AB-8BEC-075B84BF07FA",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2980392156862745,
+          "green": 0.2980392156862745,
+          "red": 0.2980392156862745
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "astronomy",
+          "type": "title"
+        },
+        "title": "Astronomy"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C5076D3C-460F-4157-8A2D-2695E334FA77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B9F6357-736A-4640-AB8C-36AD6248261E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B373E4B6-D69D-4BCB-9663-D75D24FDA6AE",
+    "height": 94,
+    "width": 344,
+    "x": 284,
+    "y": 394
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / InputState1 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6626E9F-92C2-46A3-B9B6-4711E8B0F469",
+      "overrideName": "051325C5-A222-46E9-87B4-9D664ED4B512_stringValue",
+      "value": "Straße"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89CB5983-7B70-45E1-9BE8-DE97465398BF",
+      "overrideName": "9A3447BC-9CD6-4319-BB49-77A84F67CAF8_stringValue",
+      "value": "Hier steht ein Infotext zur Erklärung. Diese kann auch zweizeilig sein."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E16CD635-102D-49D3-9A89-BED6A5AD7FC7",
+      "overrideName": "7F87D03C-5305-4C52-AE52-41ACB5A522E6_stringValue",
+      "value": "Elbestraß"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4930A983-8BE4-466D-8CA7-85C28E560FF8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0EA5BA1E-B3FC-4253-A1AB-8DBAACDA6F4A",
+  "verticalSpacing": 0
+}

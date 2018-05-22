@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D5569C62-0238-4929-880A-8A3C84FC1346",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADA95255-D3BA-4C83-A1BF-5C89073F64D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8C05EEA-E979-48E5-859F-22B511A9E7BC",
+    "height": 484,
+    "width": 528,
+    "x": 652,
+    "y": 2027
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tile / Tile WP Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E710323-3546-497F-91C9-33BC6996FD39",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E39FBC67-3A73-401F-B189-1A7F7B510567",
+  "verticalSpacing": 0
+}

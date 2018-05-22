@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F5FC0CCB-EAD8-4256-A23D-51FBC0C5C0D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB16DD69-9626-4E11-928E-F2D790BAB2CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "787C8D4F-CB5C-4EC9-84B4-AD7FE9F9BE7D",
+    "height": 84,
+    "width": 1280,
+    "x": 2,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "NavigationBar Copy 33",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82D908C6-B608-4E97-BF9A-712F998C0AC4",
+      "overrideName": "938D834C-1E8D-4110-A97D-8BAB6E6777C8_symbolID",
+      "value": "A4073CEB-6036-4885-8C1A-27FB870D1429"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A298079F-D99E-418B-AE5A-FD11CFFE777A",
+      "overrideName": "05B0B17A-6387-4EC7-9793-B1C4852CEF60_symbolID",
+      "value": "D6169041-A600-4B20-BCD5-505DE4031D32"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "152266FC-F5C1-4772-B25E-51B026AE4811",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "9C5618A1-AAD7-46DC-B89E-E0B90810AE7B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

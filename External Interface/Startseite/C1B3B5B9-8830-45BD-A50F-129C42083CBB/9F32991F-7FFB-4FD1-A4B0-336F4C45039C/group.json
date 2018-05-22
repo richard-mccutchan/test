@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "9F32991F-7FFB-4FD1-A4B0-336F4C45039C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD34E301-13BF-4381-9A5D-34BDF520299A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "017E4DA2-E542-459D-A3CC-D11777CD3249",
+    "height": 64,
+    "width": 1079,
+    "x": 101,
+    "y": 634
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A2F4B5CD-37F5-40BD-B07C-96EC618141E7"
+    },
+    {
+      "class": "group",
+      "id": "AFC78056-30E1-4E91-8DC7-B81E63F605F5"
+    }
+  ],
+  "name": "Table / Line1 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "978531A2-9B79-4881-89E4-AE65C1FB899A",
+      "opacity": 0.9000000357627869
+    },
+    "do_objectID": "6963ADDE-C171-4DA6-8217-26BDE900A41E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

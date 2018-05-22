@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F7DAA138-7639-4E53-8482-70DF5B81F718",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A006E39-8EBB-4CBC-886A-BA4DF8CD011B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CA0DA34-1FA9-4D6C-9B05-D5533E62E100",
+    "height": 34,
+    "width": 160,
+    "x": 100,
+    "y": 40
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form /Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "169B14D0-E837-4C20-B4AC-DFADE1806C37_stringValue",
+      "value": "Deutsch"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA12F70B-67DD-449B-ADFB-9A5044EE09D6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "77EAA342-239A-44CB-B3F5-A426F9D70D34",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

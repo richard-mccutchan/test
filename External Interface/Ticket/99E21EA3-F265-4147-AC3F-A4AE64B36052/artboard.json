@@ -1,0 +1,217 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E7E82690-7C26-47DD-823B-FCD4CF9C9114",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "99E21EA3-F265-4147-AC3F-A4AE64B36052",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4EFF60E-AB32-4008-A371-9CD69B17DC42",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "200D110B-1424-43C0-9638-91B1D92BE818",
+    "height": 1621,
+    "width": 1280,
+    "x": -7377,
+    "y": 6423
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "BB389A1B-0C52-4200-A1A8-C1D2EF33BBEB",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6D066D24-85D4-4AE6-A659-C649C0106D31",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B89D7AE0-F0AA-4CE9-A42E-346C5B84B973"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBBEF32F-7DE7-4681-9E14-E0577A28BA3D"
+    },
+    {
+      "class": "group",
+      "id": "02FCAE34-B3D2-4FA7-B43C-FC01D7585A66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7570C54-2EA7-4F62-BC1F-165723ECC216"
+    },
+    {
+      "class": "text",
+      "id": "33915762-9BFC-41BE-A3CD-C38736653E5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7BC27F5-AF6B-463D-B760-043FA9F0D8CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A908F25D-4BDE-47A1-90C5-8908FF79D10F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "402A889A-37FB-4A0C-8443-13EA87FA905F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17D6FBA6-693D-4143-AF0D-644BD8A35783"
+    },
+    {
+      "class": "text",
+      "id": "E0324417-1216-4ACA-A578-D8C7EDF848CB"
+    },
+    {
+      "class": "text",
+      "id": "47FCF56B-7D70-47A6-B588-8873A2D16A19"
+    },
+    {
+      "class": "text",
+      "id": "4A9900AC-79C2-400D-9EF2-41057E424475"
+    },
+    {
+      "class": "text",
+      "id": "48C07ABE-766D-4E36-8B61-1E759E15D3E2"
+    },
+    {
+      "class": "text",
+      "id": "8523E362-F3F9-49E3-A78B-7438C0CF7F4E"
+    },
+    {
+      "class": "text",
+      "id": "B087AB0E-9FD4-484B-BC5F-3B495915C850"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4088A0E7-E1EC-4B39-BEA1-FADE8C2BDB9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "571930CC-D6C3-429E-B25C-BBEA0A594202"
+    },
+    {
+      "class": "text",
+      "id": "EAD24A4A-4C04-46BA-B76C-44CF3AF33574"
+    },
+    {
+      "class": "group",
+      "id": "FBFE50AF-4F36-4BF9-A393-FAED476754EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A4CD51A-DA85-44DA-9885-8501E848193E"
+    },
+    {
+      "class": "group",
+      "id": "98D03BB9-4504-4C00-8C09-FD60A67AA206"
+    },
+    {
+      "class": "text",
+      "id": "D0A73F8C-5891-45A0-B610-687E25DD596A"
+    },
+    {
+      "class": "group",
+      "id": "BB85E9D4-029E-44BF-A5F3-B41FA03D8DE5"
+    },
+    {
+      "class": "group",
+      "id": "6D15FF1B-758C-4676-AD38-60BC012778F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "529B74B8-7F3F-48A3-BE39-92D8AA46D9C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEB966A1-3C10-40F6-9529-9BCBBD9F4C0E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "do_objectID": "C9F824F1-75B6-4801-8D59-26C3BFBDE138",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 24,
+    "guttersOutside": false,
+    "horizontalOffset": 100,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1080
+  },
+  "name": "X OTRS Visual Design Meine Anfragen Ticketdetail Desktop 2 Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C070650-06DE-42E6-BAB8-B63FE8505522",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D0168582-0525-4977-BC84-3913962B57E1",
+    "guides": [
+      276,
+      528,
+      192,
+      225
+    ]
+  }
+}

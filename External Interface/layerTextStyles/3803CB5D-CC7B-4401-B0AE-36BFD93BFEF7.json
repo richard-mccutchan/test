@@ -1,0 +1,39 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "3803CB5D-CC7B-4401-B0AE-36BFD93BFEF7",
+  "name": ". H2 24/29 CC",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "3803CB5D-CC7B-4401-B0AE-36BFD93BFEF7",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Bold",
+            "size": 24
+          }
+        },
+        "kerning": 0.2000000029802322,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 29,
+          "minimumLineHeight": 29
+        }
+      },
+      "verticalAlignment": 0
+    }
+  }
+}

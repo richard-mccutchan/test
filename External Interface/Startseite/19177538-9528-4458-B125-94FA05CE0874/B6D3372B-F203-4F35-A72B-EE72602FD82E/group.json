@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "B6D3372B-F203-4F35-A72B-EE72602FD82E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFBF89AC-A0EA-4F43-BA6A-77C0DCC7880F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F886BCA1-26D8-4BDC-8C79-8B8032D29245",
+    "height": 17,
+    "width": 16,
+    "x": 589,
+    "y": 675
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92D4A99B-89F6-414F-BD0C-5ACC149E1689"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC90A989-F571-41B2-BCCA-262CA50AD177"
+    }
+  ],
+  "name": "Pointing hand",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D430A05D-18DC-4885-8EDF-E4972F4D5A4B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2986557904411765,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "do_objectID": "F395620E-47E6-466E-BE7F-7A7AF41C5858",
+          "opacity": 1
+        },
+        "do_objectID": "2ED087E8-630D-4141-A54B-ABF1F6A25EED",
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

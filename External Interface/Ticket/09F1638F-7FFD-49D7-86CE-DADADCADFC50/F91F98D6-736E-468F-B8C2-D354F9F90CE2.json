@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F91F98D6-736E-468F-B8C2-D354F9F90CE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1A10C70-E1AD-4B89-93E4-870399B87594",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8DE11E0-A73A-4A8A-8BFF-4A2DB700996B",
+    "height": 156,
+    "width": 102,
+    "x": 99,
+    "y": 374
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Sidenavigation_TicketProcess",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6028D16F-55F8-4FFF-BF19-0976C4B14C94",
+      "overrideName": "6059C856-0654-427F-BAC1-BC7F7A56B1E1_stringValue",
+      "value": "Address"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCD65EE3-BA1B-40C4-A6A9-B57A67C3A2F1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "30E83081-22EB-408C-B60C-6E9A3546034B",
+  "verticalSpacing": 0
+}

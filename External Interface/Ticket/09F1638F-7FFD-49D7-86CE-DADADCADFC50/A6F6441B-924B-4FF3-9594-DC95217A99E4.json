@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A6F6441B-924B-4FF3-9594-DC95217A99E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2E743BA-3BC8-4510-A2C1-8EE1C1D54CB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0B16C54-3FAF-4777-A5E6-C3FF0E97E627",
+    "height": 52,
+    "width": 160,
+    "x": 468,
+    "y": 561
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / InputState1 Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B80FF788-A783-44CE-93B2-793B2421CCFA",
+      "overrideName": "38CBADF9-A864-4A7B-87AD-AB988501E48F_stringValue",
+      "value": "Stadt"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47AF9DBC-9221-41BC-A480-308B2AFEC85E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "14EEB221-D10A-4A0A-B3CD-9F65F20B4E90",
+  "verticalSpacing": 0
+}

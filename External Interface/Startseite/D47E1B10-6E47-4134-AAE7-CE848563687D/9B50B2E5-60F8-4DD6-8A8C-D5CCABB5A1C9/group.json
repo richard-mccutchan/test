@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "9B50B2E5-60F8-4DD6-8A8C-D5CCABB5A1C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FAE0CE3-64BA-4CC3-A1A0-4909AFBCDC8E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5992A0F-3FCE-497B-9A50-26049C932E79",
+    "height": 34,
+    "width": 146,
+    "x": 10,
+    "y": 3756
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5C59FD3D-1C22-4676-B9CA-8FC54507E29E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3FDDC8BD-9745-44AA-9427-34B72EB4AFE5"
+    },
+    {
+      "class": "text",
+      "id": "41E450C6-D74E-487A-8ACD-636A96CD1A87"
+    }
+  ],
+  "name": "Form /Dropdown Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C6A5BDCB-3BA3-4525-89AB-B475771C8B6E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

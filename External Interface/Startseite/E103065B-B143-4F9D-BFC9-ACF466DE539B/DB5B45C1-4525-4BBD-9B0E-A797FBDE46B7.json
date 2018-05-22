@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DB5B45C1-4525-4BBD-9B0E-A797FBDE46B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD74BB30-AA7A-49A5-BB7B-1EA9FEBA2D5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC317F64-971E-4AFF-A31C-7AFA7007D5F5",
+    "height": 198,
+    "width": 1280,
+    "x": 0,
+    "y": 2572
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E81A2742-4A82-4E3F-B509-A8B1C1965890",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2220B4EC-47A5-423D-A355-3DCAE03C65E0",
+  "verticalSpacing": 0
+}

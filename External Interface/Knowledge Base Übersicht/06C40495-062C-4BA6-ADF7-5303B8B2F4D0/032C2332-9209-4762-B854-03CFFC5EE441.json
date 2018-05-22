@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "032C2332-9209-4762-B854-03CFFC5EE441",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BD3061E-EA97-47BD-934D-AA39DEC39E7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6003067-F333-4A6C-AAB5-45967B1A0971",
+    "height": 225,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header_grey",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F91E40-6681-4A64-BB2C-8ED86B7ED6B1",
+      "overrideName": "1D7528F3-8D37-414D-946A-772A39A1E29C_stringValue",
+      "value": "Knowledge Base"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F18AEF0B-BDBD-461A-983D-859BA48E5D7A",
+      "overrideName": "723ABBFC-F026-4B71-8BB8-D9C1C1C2B359_stringValue",
+      "value": "IT Service Center ‣ Knowledge Base "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4178B20-7C0A-4F90-8597-ACB7B7F2DFCA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08E6CFAD-3264-4867-8698-51FE65F42534",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

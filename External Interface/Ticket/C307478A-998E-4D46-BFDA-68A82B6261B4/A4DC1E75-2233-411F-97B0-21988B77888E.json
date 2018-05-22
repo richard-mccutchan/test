@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A4DC1E75-2233-411F-97B0-21988B77888E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E97C92E-AEB0-4C0D-A9D8-3A739F0DEF88",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99DCFD1E-6777-49C2-8A3A-5AE94AE18A6A",
+    "height": 24,
+    "width": 300,
+    "x": 193,
+    "y": 996
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox + text Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71E88B57-9C8A-47BF-A2BB-7524E24FDC6C",
+      "overrideName": "F7366DD3-FFB5-4ED2-AD0D-846234D0C8A1_stringValue",
+      "value": "Althusser Competing Interpellations "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "581547C0-EE0B-4947-A5B0-2A8F04C566A6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ABCA2A34-7D5D-44B1-8AD1-C52BD1CCFBDC",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9289F4FB-8BDB-4794-A559-036323B9BAB6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "730F504E-7D7A-429F-856C-2BCDD6809313",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D4DD170-F65E-432C-96AA-8B08C5CAC95D",
+    "height": 14.52767492777175,
+    "width": 13.5576288913895,
+    "x": 0.8142841762785906,
+    "y": 0.8521541841755891
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C60AC79A-9895-4118-BE92-493F4F23620F"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3475013-529F-4CE8-9D0F-33BE6CB215BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD6181E6-7453-41BE-8C9B-FDB6A6CF31F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C57597D-B896-487F-984A-BC9D8D8DDF21"
+    }
+  ],
+  "name": "White",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17082F31-4B18-4B2A-ACA6-8DAAFA590CFF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.9999365210533142,
+          "red": 1
+        },
+        "do_objectID": "958DC2AD-AE35-4F01-BDDE-46066FD870B2",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

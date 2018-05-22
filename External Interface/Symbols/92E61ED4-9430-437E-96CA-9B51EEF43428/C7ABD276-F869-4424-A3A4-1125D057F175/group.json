@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "C7ABD276-F869-4424-A3A4-1125D057F175",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C8193DB-CF54-41B5-9108-CD2FB626A779",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "026F741C-DBE0-43EF-9463-628A9F131A51",
+    "height": 88,
+    "width": 161,
+    "x": 348,
+    "y": 164
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "831C5091-9BCB-4DBE-A4CF-9999ADA49A3C"
+    },
+    {
+      "class": "text",
+      "id": "8DBFA97F-EB20-4AEC-9B0E-FBA6A0CF0911"
+    },
+    {
+      "class": "text",
+      "id": "5943F3AC-C1C3-47E7-BAD9-4DC235A35B2A"
+    },
+    {
+      "class": "text",
+      "id": "172DD75B-FF2A-4875-AD00-79C6495C0010"
+    }
+  ],
+  "name": "Chips Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "992F56F5-B11F-42E7-99DE-A1B22F515120",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2784313725490196,
+            "green": 0.2784313725490196,
+            "red": 0.2784313725490196
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 176,
+        "location": 0
+      }
+    ],
+    "string": "Sed fermentum erat dapibus sem tempus, in pellentesque massa suscipit. Maecenas interdum, lectus a scelerisque mollis, erat felis rutrum sapien, eu egestas diam leo at lectus. "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "7B3B7CA8-0BB3-497D-BCC1-ADB2B6C776C8",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF7E8B85-6632-4FC8-A0C2-C73C8884BD87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07FC142E-6CB9-4055-8000-33F2D616E6BA",
+    "height": 34,
+    "width": 564,
+    "x": 92,
+    "y": 552
+  },
+  "glyphBounds": "{{0, 3}, {555, 30}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Sed fermentum erat d",
+  "nameIsFixed": false,
+  "resizingConstraint": 11,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5552AB5-C316-45C2-A777-8CDF3C3A8738",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "CFF24D79-0084-41E6-BDBC-A3A359EB237D",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "37D1B7CD-F6B5-46D6-89D8-77CE7963B6B3",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.2784313725490196,
+          "red": 0.2784313725490196
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Regular",
+            "size": 13
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}

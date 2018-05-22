@@ -1,0 +1,102 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8588235294117647,
+            "green": 0.6313725490196075,
+            "red": 0.01568627450980402
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Semibold",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 10,
+        "location": 0
+      }
+    ],
+    "string": "Ausblenden"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AC88748B-7060-4BD5-B24E-B0352395C30C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2B81519-02DE-46DC-A476-A5A38E0D9CDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6DC25DE-66C2-4CFF-BE84-A6420DF8B67B",
+    "height": 17,
+    "width": 66,
+    "x": 65,
+    "y": 0
+  },
+  "glyphBounds": "{{-1, 3}, {67, 11}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Ausblenden",
+  "nameIsFixed": false,
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7BF701E-1A65-481F-8227-0285FB9C0FED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "9A03B0A6-77A1-4A90-A298-8A1EE4C54423",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.6313725490196075,
+          "red": 0.01568627450980402
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SourceSansPro-Semibold",
+            "size": 13
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0
+}

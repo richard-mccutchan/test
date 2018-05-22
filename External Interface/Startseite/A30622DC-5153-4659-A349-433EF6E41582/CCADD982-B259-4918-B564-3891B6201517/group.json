@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "CCADD982-B259-4918-B564-3891B6201517",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 98,
+    "x": 126,
+    "y": 846
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5874F4C-E1F7-4C7F-A33A-CF2BA0D1A0FF"
+    },
+    {
+      "class": "text",
+      "id": "CE7303F9-9F39-4368-A873-2053D12C5BDF"
+    }
+  ],
+  "name": "MehrBtn",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

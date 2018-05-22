@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "640E21C2-EE57-40DA-9DF1-D987F4728057",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B8D13AA-08C5-44F3-B346-471B5EBF32CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8411AA2-A933-4ACC-849F-1D27B6A24D03",
+    "height": 128,
+    "width": 300,
+    "x": 10,
+    "y": 482
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile_TableRow_Fin Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33E0BD94-2A1F-4A54-BF35-99DC62EEFF3A",
+      "overrideName": "BB37A091-EEEC-44DD-A438-CE29F1ADFFB8_stringValue",
+      "value": "Von Maximilian Mustermann-Doppelname"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "848D1404-7002-4543-AE0E-C7408494ECFB",
+      "overrideName": "2E4C1D9C-AC29-4CCD-94CF-11C1D75C9E4F_stringValue",
+      "value": "Neues Betriebssystem"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6346CFA9-46E7-4D8D-9F07-A8A04D788C94",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "63138183-BCBA-4689-BBEA-D3180C06E51C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F65326F0-B71B-4740-9766-3E4C820E2E42",
+  "verticalSpacing": 0
+}

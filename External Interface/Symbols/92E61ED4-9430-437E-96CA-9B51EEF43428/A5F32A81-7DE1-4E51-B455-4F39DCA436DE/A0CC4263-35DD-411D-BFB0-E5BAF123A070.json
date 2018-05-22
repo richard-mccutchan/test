@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A0CC4263-35DD-411D-BFB0-E5BAF123A070",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95A51B47-F9C8-416F-964F-0EC87FDDD705",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28DA950F-70B5-4863-BF04-FA11D5128C35",
+    "height": 24,
+    "width": 140,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Btn_light",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEEA8C5C-A6FD-4653-8893-8F5B4AA50B0F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "25C5818F-430A-4F93-A5BE-B0499EE8F770",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

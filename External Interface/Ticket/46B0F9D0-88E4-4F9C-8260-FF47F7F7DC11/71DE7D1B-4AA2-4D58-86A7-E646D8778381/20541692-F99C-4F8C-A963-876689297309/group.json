@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "20541692-F99C-4F8C-A963-876689297309",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E29C541-C2E0-4734-989A-75634F2ED55B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "853CC543-F266-485F-9FDB-B13AFBABDCFB",
+    "height": 96,
+    "width": 712,
+    "x": 72,
+    "y": 541
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "341F2947-6201-41DE-8F31-FEC8AA6D773B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62C57E52-A5A5-4F74-83B3-D6C54037989D"
+    }
+  ],
+  "name": "Form / LongInputState1 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2AEA4740-D427-4BA2-B8A9-96D22E152DD5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

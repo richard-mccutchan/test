@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "7B978A51-D145-4497-AB41-3B8F4ADCFED8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B504D8A-999B-4715-857A-161E8014F246",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "170BBCA7-020E-4F1C-ABC7-03A0998FD29C",
+    "height": 64,
+    "width": 1079,
+    "x": 101,
+    "y": 761
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BAF0AB08-D359-41A7-9A48-34CB868614FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA6E182A-13E7-4BB9-8755-7B81D83FB4B5"
+    },
+    {
+      "class": "group",
+      "id": "E5C6BDE2-C110-45D9-A8AD-54636B486B56"
+    }
+  ],
+  "name": "Table / Line1 Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7BC8D7C-8E3F-4F6B-88C1-6F8D0AD8CAD8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

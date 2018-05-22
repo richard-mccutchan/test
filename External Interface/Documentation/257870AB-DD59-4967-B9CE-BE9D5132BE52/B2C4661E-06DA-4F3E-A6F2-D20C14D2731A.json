@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B2C4661E-06DA-4F3E-A6F2-D20C14D2731A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "645EA436-ED94-4A46-9802-4D9B3D3839C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EA03011-98EB-4E32-80B5-F2FE8D5D0473",
+    "height": 198,
+    "width": 1280,
+    "x": 0,
+    "y": 756
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Footer",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BBDA517B-C0E3-4026-83A1-4C4BE69DFF5A",
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "2089DBD7-706E-4E1C-9EA4-784667161EE1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2220B4EC-47A5-423D-A355-3DCAE03C65E0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "36E5B186-177A-467F-A5E6-C29C70AB9CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46A9BF0E-3633-41F2-8DE5-0553639A4660",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D2AD010-1A99-4BD9-860A-8238E0A0093D",
+    "height": 24,
+    "width": 57,
+    "x": 655,
+    "y": 784
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "lable_inaktiv",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CB1661D-1C60-41AB-81D5-3574A4DA7011",
+      "overrideName": "44FEAD80-6424-4BC2-B7EC-08607A66DF8E_stringValue",
+      "value": "Gelöst"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A791E1C7-5C51-4D4B-91F5-1243F0057B5C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9B2AE80E-8F0D-411D-B233-0C192DB35252",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

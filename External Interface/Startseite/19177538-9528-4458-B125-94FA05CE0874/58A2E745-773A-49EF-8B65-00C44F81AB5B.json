@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "58A2E745-773A-49EF-8B65-00C44F81AB5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9AF6C43D-0CA2-476E-AA80-392830A18303",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5C50EE6-6B6F-435F-9463-C9C043D35CFF",
+    "height": 484,
+    "width": 528,
+    "x": 100,
+    "y": 2027
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tile / Tile WP",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4051F6F-4859-4276-857F-94844CC2CEC6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E39FBC67-3A73-401F-B189-1A7F7B510567",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C26C2BD5-E7E6-4D71-A941-A8C17E64F3CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E693AC4F-9D78-4488-87BF-147166C9D66E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E9914EC-F330-4311-B11A-66FA4CC1E33D",
+    "height": 84,
+    "width": 1280,
+    "x": 0,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "NavigationBar Copy 33",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05511123-3E10-49F4-838E-CC1F65E3BEC5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "9C5618A1-AAD7-46DC-B89E-E0B90810AE7B",
+  "verticalSpacing": 0
+}

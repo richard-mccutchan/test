@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "2E7666CD-18B3-4D3F-B585-4DE8F7D0F350",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22B64300-D0BD-4DBD-9ADB-8C42E5452D93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8FC615A4-3B82-4F9B-8AEE-44B2ACCAAB0B",
+    "height": 552,
+    "width": 280,
+    "x": 15,
+    "y": 2452
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "75FB6A68-8BAF-410C-93EA-E9BCCE46A8A9"
+    },
+    {
+      "class": "group",
+      "id": "1C0F682B-A17C-4EA4-9387-F86F47676EB6"
+    }
+  ],
+  "name": "Tile+Help Copy 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "B71672A7-BE82-4B1D-9797-6DA0FF270D50",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "CA38D84B-FD34-4530-8BFC-24652BE8321A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

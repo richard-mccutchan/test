@@ -1,0 +1,113 @@
+{
+  "_class": "page",
+  "do_objectID": "2738D7D6-FDF2-4CA4-861F-4CB3B5A8AEF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -570,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "CD45EF3A-85DE-432B-AF91-94762CC285E9"
+    },
+    {
+      "class": "artboard",
+      "id": "A30622DC-5153-4659-A349-433EF6E41582"
+    },
+    {
+      "class": "artboard",
+      "id": "E103065B-B143-4F9D-BFC9-ACF466DE539B"
+    },
+    {
+      "class": "artboard",
+      "id": "C1B3B5B9-8830-45BD-A50F-129C42083CBB"
+    },
+    {
+      "class": "artboard",
+      "id": "A289D454-FC7F-463E-86D4-B1F34AA0A1C8"
+    },
+    {
+      "class": "artboard",
+      "id": "19177538-9528-4458-B125-94FA05CE0874"
+    },
+    {
+      "class": "artboard",
+      "id": "9F5550CD-23E3-417F-AD91-A3740726EE37"
+    },
+    {
+      "class": "text",
+      "id": "F9470444-2956-489A-875F-2C1AEE6864D4"
+    },
+    {
+      "class": "artboard",
+      "id": "E4D3AFB2-8678-4D24-BDA6-07850044040F"
+    },
+    {
+      "class": "artboard",
+      "id": "6BC676E1-04C6-4378-AE8D-9473FA6BBDB5"
+    },
+    {
+      "class": "artboard",
+      "id": "D47E1B10-6E47-4134-AAE7-CE848563687D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Startseite",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -334,
+    "guides": [
+    ]
+  }
+}

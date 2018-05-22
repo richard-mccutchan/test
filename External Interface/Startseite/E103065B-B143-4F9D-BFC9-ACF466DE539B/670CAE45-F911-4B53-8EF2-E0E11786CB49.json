@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "670CAE45-F911-4B53-8EF2-E0E11786CB49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C074D69-1026-44CD-A44B-460D789D27AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F805C2A4-0163-47D1-9664-251FE879789E",
+    "height": 291,
+    "width": 252,
+    "x": 928,
+    "y": 1615
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Lists / Linklists Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E4E81DF-A481-4692-B95A-5071FBF611EF",
+      "overrideName": "B1149B69-FDBC-4F06-84CA-F17FC27B2486_stringValue",
+      "value": "Topic four"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9F839DE-0DBE-432D-947D-D6EED9D16DFF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "08259DEB-1AD1-4EA2-B7BF-4DF22E7DD993",
+  "verticalSpacing": 0
+}

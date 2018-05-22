@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "548F4D0A-04C5-46B4-83D1-3AB18AF830A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A990B1A9-7EB9-45F1-87A0-A672261C742D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4FD4D16-AF61-45E2-AC50-0CA275456FA2",
+    "height": 54,
+    "width": 344,
+    "x": 192,
+    "y": 414
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "12FC0CF9-CE4E-4343-9557-EEE21929930B"
+    },
+    {
+      "class": "text",
+      "id": "39FB4531-4BAC-41AD-A329-EB41E3E0ABBD"
+    },
+    {
+      "class": "text",
+      "id": "ACCAD75C-1408-4DD4-8E24-8C20AF0C3E0D"
+    }
+  ],
+  "name": "Form / InputState1 Copy 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4F20B1D-4294-4F3B-A8BF-337BEFCDEFB0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

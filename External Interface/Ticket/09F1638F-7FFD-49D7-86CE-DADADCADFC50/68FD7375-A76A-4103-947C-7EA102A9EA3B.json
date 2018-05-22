@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "68FD7375-A76A-4103-947C-7EA102A9EA3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A792C29-B305-47C6-9375-2D687973BB03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB203B35-5FE2-4B3B-AD0C-638FF4FCE8EF",
+    "height": 52,
+    "width": 252,
+    "x": 652,
+    "y": 561
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / InputState1 Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3510B67-0C66-4E63-9F44-8FEF7DD96FDE",
+      "overrideName": "169B14D0-E837-4C20-B4AC-DFADE1806C37_stringValue",
+      "value": "Land"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36AC3E3B-31C9-4683-8D39-2820AAFDED14",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "77EAA342-239A-44CB-B3F5-A426F9D70D34",
+  "verticalSpacing": 0
+}

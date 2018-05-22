@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8C1BCAB6-DD9A-4EEA-99F4-BECB76027502",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61668D56-39EC-489A-8FDE-4F1FCA165052",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D343FF76-8561-485B-8409-82AC14C2CF07",
+    "height": 35,
+    "width": 123,
+    "x": 462,
+    "y": 879
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Btn_light",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "E8FB6877-C0C8-4FFC-9B97-017F4A8DDC9F",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "576EC3D9-258D-44EB-8957-8B141A735F63",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B0568503-78B5-42C8-9FA4-A72F26FB4E3B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

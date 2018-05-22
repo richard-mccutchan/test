@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B5275002-83CB-4510-BF63-0ABBB3541C24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "708E2CA5-7768-4E56-BCB4-6A92387BD06C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C83324F4-46B1-4163-BBC4-FBEF3A1CD983",
+    "height": 108,
+    "width": 300,
+    "x": 10,
+    "y": 718
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile_TableRow_Fin Copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF2385C3-C35F-4F3F-84B1-7CE907C2983F",
+      "overrideName": "D705698B-E8E3-452C-8192-F2EDB4BD06D3_stringValue",
+      "value": "Life Advice Through "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "64252CAA-9718-43F9-B013-7D24AD822681",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "3FD58ACB-8007-40C7-8773-E13F76F266A6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B24DA1E3-36A4-475A-B8FD-BD6E16C93AC6",
+  "verticalSpacing": 0
+}

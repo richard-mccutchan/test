@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B89D7AE0-F0AA-4CE9-A42E-346C5B84B973",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8E7BDDF-F78C-450E-A56E-E4D8E75496AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE2BB7E5-647E-4F9E-9592-68DB4A01B93A",
+    "height": 225,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header_grey",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91DD07AD-C075-4C0D-BC7F-626D102E1D1E",
+      "overrideName": "76508A8B-6D35-4DBD-ADEB-E4C27B641BFB_stringValue",
+      "value": "Ticket-Title: Vestibulum egestas "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BB2CB31-B4B6-4BC3-8FF8-1633AACF8E92",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "327E3BD0-60B2-4082-BC9D-2F3F76A3AF35",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

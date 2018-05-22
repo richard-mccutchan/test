@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "E32FC588-7BB8-4C25-B0C3-659AF20ADC75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "593DAF8F-37A0-453D-BEBB-2FB6994E7473",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB638FC0-97F2-4BBC-8EE1-98C9AD9420AF",
+    "height": 64,
+    "width": 1079,
+    "x": 101,
+    "y": 634
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1630D647-9156-4624-8FC9-3A510FB33AFC"
+    },
+    {
+      "class": "group",
+      "id": "44301CE9-8864-4EE3-A262-AAC21B21A3A4"
+    }
+  ],
+  "name": "Table / Line1 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "91411191-E9D1-44DF-9DBE-C9FC529C0948",
+      "opacity": 0.9000000357627869
+    },
+    "do_objectID": "F0F90CAC-F2CF-4527-858F-4DF39F3697E8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

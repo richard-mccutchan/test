@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7297D526-3541-4D5B-8169-DC54DD7E1DA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8E00E1E-43FE-44F1-ADDD-97E5CB899E73",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D48AD47-99DC-4D6D-987F-93E277EB7284",
+    "height": 301,
+    "width": 784,
+    "x": 192,
+    "y": 1074
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "RichTextEditor / State1",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9ACDD10A-45E1-4DF3-AED4-E30ADB0D8DB1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "086C73CA-0AB3-4444-BCE4-A51F107ADA04",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

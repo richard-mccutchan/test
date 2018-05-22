@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "288992DC-71BB-456A-9045-8E0EE2D8958A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46D5C3BC-EA74-41AA-B9B2-6AA01A36B1AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1210D529-A7BD-419F-AD35-3F47640245AE",
+    "height": 426,
+    "width": 344,
+    "x": 467,
+    "y": 1039
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tiles / BildText Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DF95699-0E90-4CAC-9EFC-71BE307EA019",
+      "overrideName": "20411F67-BD6C-486C-8A2A-945362AF8D2D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3fa21219617e84744e24ca6d968fd4d159a042d0.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "633A15A8-5096-4E7D-B0C5-2D343D8ED33B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4AFD9810-15AF-40DC-9097-915385C24B78",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,36 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "4A555BCB-75B0-4D45-A818-81E62FE3D348",
+  "name": "Text style",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "4A555BCB-75B0-4D45-A818-81E62FE3D348",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  }
+}

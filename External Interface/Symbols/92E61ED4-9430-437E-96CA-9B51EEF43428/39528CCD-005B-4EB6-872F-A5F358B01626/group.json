@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "39528CCD-005B-4EB6-872F-A5F358B01626",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D326CA7-1152-4E45-8311-70130F97B265",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9A63BA3-6479-4813-A4C9-97A1448FF9BA",
+    "height": 88,
+    "width": 161,
+    "x": 47,
+    "y": 164
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2F0CAF5E-6758-49C0-8C8B-EB492EB83D78"
+    },
+    {
+      "class": "text",
+      "id": "BD571984-E7F9-42B8-8697-C761EA96748F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "718AF99F-9774-456F-BA54-A6D626AF6B1F"
+    },
+    {
+      "class": "text",
+      "id": "ED91A3D6-3A65-4D37-98F2-43331D142709"
+    },
+    {
+      "class": "text",
+      "id": "0008212E-1C3C-474E-9010-94BC15277308"
+    }
+  ],
+  "name": "Chips Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CD10015E-B62C-4E8C-A849-1CB115B63270",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

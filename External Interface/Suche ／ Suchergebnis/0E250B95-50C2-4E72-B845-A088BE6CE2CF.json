@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0E250B95-50C2-4E72-B845-A088BE6CE2CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5ADB0FA-A84A-4CEE-BF17-16F23CBD45DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "87E11461-33F1-4C7D-B334-4E11C5EB1E68",
+    "height": 45.86518126888217,
+    "width": 181,
+    "x": -3977,
+    "y": -55
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2592b04ff087404b6a0e73021e32edecc38ea4da.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mercedes_logos_PNG30",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0944090-9478-41CD-88E2-DCAA696254B7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

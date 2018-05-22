@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "128E0419-0A62-4B4D-9741-7E3663B869C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0DDD7DCE-EDF6-47FD-894B-453205E143F4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DDF0CB8-9A53-42BA-AF39-A56CB27EAF45"
+    }
+  ],
+  "name": "Aktiv:Menüpunkt3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A6A0EFF0-A0A0-4A45-8056-F74BEB648F88",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 594,
+  "do_objectID": "EEDD6339-1AAC-438A-9052-8DE7EA633636",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CBD46A4-3BC7-4798-B017-A266C2763A2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49A92C04-CBC1-4087-856E-3DC02C8D059C",
+    "height": 130,
+    "width": 374,
+    "x": 17239,
+    "y": 1138
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FD6EBD91-3B30-468A-8BBB-BA765DBBD455",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E2A66726-6381-4519-9DD5-E201BD45303A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F40AC5EC-81D3-4356-B984-513D06E202E8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 1,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 213.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 8,
+    "totalWidth": 960
+  },
+  "name": "Form / Input-long_disabled",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26B52373-46EA-4F34-9B4A-35685DC56A0D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C96B9777-07E6-40F2-A7B0-06A5E4CE482C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "60073B6C-2EA3-49E3-9094-80DAAC99E701",
+    "guides": [
+    ]
+  }
+}

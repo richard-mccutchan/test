@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "43F108AB-B622-4753-AAF8-1EEB91AB175C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "292BEC06-F9DE-40C8-B086-1D765D8B640B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "350503E8-B772-4ACD-A76D-F468C4E6F855",
+    "height": 225,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header_grey",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E122933-6C3C-4F3A-883E-A12FCF6DE66E",
+      "overrideName": "4FC29AC3-A0F1-411C-BBC5-FAF60898A338_stringValue",
+      "value": "Kategorie ‣  Account"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5738B445-FBAD-472A-B32E-FD5D0297E44A",
+      "overrideName": "76508A8B-6D35-4DBD-ADEB-E4C27B641BFB_stringValue",
+      "value": "Anfragen"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "826A652F-83F1-478B-8186-B1657320D98A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "327E3BD0-60B2-4082-BC9D-2F3F76A3AF35",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "51EB1498-7A6E-4BC7-8E95-CF03089602C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1EC50C2-45B1-4F14-8C81-7B5AE65BB8C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF1054AD-3402-4DBA-AF9D-4F0BF7E4790E",
+    "height": 24,
+    "width": 413,
+    "x": 16,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F09357C5-C977-44B8-B87D-AF3FC213A2BE"
+    }
+  ],
+  "name": "Bewerung Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FAA675C7-84F9-4105-8F07-A0968C2BA92F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

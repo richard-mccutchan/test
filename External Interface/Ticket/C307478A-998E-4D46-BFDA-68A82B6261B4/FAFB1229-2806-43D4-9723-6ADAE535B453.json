@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FAFB1229-2806-43D4-9723-6ADAE535B453",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED735D2E-708F-4AF5-B95A-5610BB5D9644",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C70DB72D-06D7-4593-820A-A99BB17C1B1B",
+    "height": 52,
+    "width": 344,
+    "x": 193,
+    "y": 1439
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / InputState1 Copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B8AFC99-525B-4AC7-B6DD-C18C642ED692",
+      "overrideName": "38CBADF9-A864-4A7B-87AD-AB988501E48F_stringValue",
+      "value": "Nächstes Inputfeld"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BBF78A6-467A-4C2A-A35D-F1B18433A434",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "14EEB221-D10A-4A0A-B3CD-9F65F20B4E90",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

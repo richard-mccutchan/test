@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7710E0FB-1564-464E-8B60-770B51A9FC17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42ADCBB7-5321-491D-A9FF-69DF7A8D354C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB6B032F-8084-4AC2-8BDF-5BD02792E4F7",
+    "height": 28,
+    "width": 300,
+    "x": 193,
+    "y": 1251
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Radio-Button + text Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "70895168-AD87-4A1F-AB38-7E042B5916E0",
+      "overrideName": "BB659832-F7E0-41CA-BB5E-C009287C791C_symbolID",
+      "value": "52CCAA01-77A8-4C09-B004-C3241B2AF028"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F297C26-7E63-4781-B6FC-67BA6FAEFFB7",
+      "overrideName": "E923967E-4FCE-4268-BAA2-47A0F848EB16_stringValue",
+      "value": "Nine Features Of An Advertising Flop"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3174847-8247-4401-9FA1-6A46F8AFBBEE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "552EEC64-5E1B-41B2-B974-868B3289B662",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

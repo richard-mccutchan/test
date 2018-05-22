@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C12655CB-F4DB-49E8-89DA-DCA0F2F7E649",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B34605D7-A05C-4DCD-95F3-DF1184A4494F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BD2A59F-8FC9-42F4-8273-C8340BEEC201",
+    "height": 52,
+    "width": 620,
+    "x": 284,
+    "y": 497
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / InputState1 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95668B92-825F-4ABD-AD72-D45915BA3435",
+      "overrideName": "38CBADF9-A864-4A7B-87AD-AB988501E48F_stringValue",
+      "value": "c/o Appartment, Türcode, etc."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5C5FA06-50AC-4E83-BB53-31A6FDB66CFB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "14EEB221-D10A-4A0A-B3CD-9F65F20B4E90",
+  "verticalSpacing": 0
+}

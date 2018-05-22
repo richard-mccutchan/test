@@ -1,0 +1,90 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.28,
+            "green": 0.28,
+            "red": 0.28
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SourceSansPro-Regular",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          }
+        },
+        "length": 13,
+        "location": 0
+      }
+    ],
+    "string": "Events & News"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FDB0A990-D5E3-4BFA-9009-AA02CDFE3331",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 79,
+    "x": 306,
+    "y": 3087
+  },
+  "glyphBounds": "{{1, 4}, {78, 10}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Events & News Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "CFF24D79-0084-41E6-BDBC-A3A359EB237D"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "Careers",
+          "Stock Info",
+          "Company Profile",
+          "Financial Publications",
+          "Financial Calendar",
+          "OTRS Trainings",
+          "OTRS Certification Program",
+          "E-Learning",
+          "Further Trainings",
+          "Events & News"
+        ]
+      }
+    }
+  }
+}

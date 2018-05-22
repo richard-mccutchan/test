@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "19ECEEBD-7E98-4888-9EE2-2FCAF2D53453",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E6D29FD-4B54-4C03-9332-10874BB2BFC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91800155-5ECD-4214-A5F3-D5F0AE107E29",
+    "height": 17,
+    "width": 84,
+    "x": 864,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FBD0B292-C0FE-490B-BEC4-89510A19E6EE"
+    }
+  ],
+  "name": "Btn_light Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F9561D2-0CAD-4D30-963A-CDFD5C93B9F3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

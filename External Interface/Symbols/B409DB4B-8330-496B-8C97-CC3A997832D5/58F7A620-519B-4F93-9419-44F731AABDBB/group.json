@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "58F7A620-519B-4F93-9419-44F731AABDBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18C4240F-F816-4EAD-BCD0-0DDF3BEF06F7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B745A2A-EED7-40D0-844F-B07086312F45",
+    "height": 17,
+    "width": 111,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "99960028-2648-467C-A0DE-9859881D7EF5"
+    }
+  ],
+  "name": "Upload Copy 27",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AA2A3B7-8FDB-439D-9750-E1679B101835",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

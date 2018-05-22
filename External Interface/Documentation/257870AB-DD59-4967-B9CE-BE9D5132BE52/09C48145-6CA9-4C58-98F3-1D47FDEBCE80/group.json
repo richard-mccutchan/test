@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "09C48145-6CA9-4C58-98F3-1D47FDEBCE80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "096F19A6-E6C7-4ACC-BDA4-8649331D016B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E35186A7-80E3-4AF3-A93D-E990B9E5D65E",
+    "height": 954,
+    "width": 1080,
+    "x": 100,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "233B2BB8-1F95-47AB-8CC9-0410376A556E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEFBC285-E6E6-4606-B77B-BE0CDFBA6402"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FD680D1-7815-4720-BFF9-9EA12AE6703F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B05A596-8D87-407E-BAFD-8D9A9EDF2187"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03166B6D-33D8-4EF7-9BC9-F45426F92FA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F592F7CF-B2C8-4C7A-9D82-1330B554179E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FBDED740-A719-4C73-AAF1-471F3C9202E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CA61A21-6DB5-42A3-B71F-CB768AA355F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17EAC0D9-43E8-49C7-9BB4-4A2D706247F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1D9EF79-F24D-4203-8526-5212E7249877"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE64422D-450D-45B6-A10C-C4E611B64B35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "794EF2CD-9390-407A-A7C6-18C808800911"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91BF55D6-DCEF-4A37-B6A9-8875063DBC77",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

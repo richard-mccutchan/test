@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7055410C-C3C7-487E-A0B9-43E3FC68A1A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "712AA24A-A375-427D-8FAC-DDA7B35C0692",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EBC1B47-899A-432B-8F78-DD9B6985620C",
+    "height": 290,
+    "width": 299,
+    "x": 11,
+    "y": 932
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tiles / BildText_mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4134A140-E610-49E3-929E-5AA4F5ECC763",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "81D65FD6-EEE8-4585-A3C7-642490516696",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DDE885B7-6173-420E-87B1-10EC6A4EDA07",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A7C9D261-9C7B-49E7-9AD3-9D2A14905EDA",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 422,
+  "do_objectID": "8E7D1C25-8CB6-4619-944B-1DC7C6460D7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC8311B6-C491-4172-AC40-CDE6DCA75442",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7549473-38A6-4C02-A527-3C985854E082",
+    "height": 150,
+    "width": 159,
+    "x": 15135,
+    "y": 671
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "44C7C600-BA5F-4BEF-913C-70057F71AB31",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25BE9401-22BA-4E7F-8E51-14D7DE89CDBC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD53BA05-BE9C-4B84-9BE6-19B0820F887B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82897FB1-93F6-43ED-995E-7EDF77C7CABB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5FC1CE8-26C9-49F4-AEA7-F93FC30917CA"
+    },
+    {
+      "class": "text",
+      "id": "70B24A47-DAE6-4763-B5E0-6B8C213D7CAC"
+    },
+    {
+      "class": "text",
+      "id": "2A4E1E1F-016E-4788-8B9E-3A6C334F0656"
+    },
+    {
+      "class": "text",
+      "id": "337BACA3-E94C-493E-A67F-9E7B3B1E882E"
+    },
+    {
+      "class": "group",
+      "id": "48108480-7A0D-4328-92D0-830751F57A39"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 1,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 213.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 8,
+    "totalWidth": 960
+  },
+  "name": "Navigation / Dropdown_Mehr",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F0F4FDA-D641-47CC-93B2-E7BBAA0ED96C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6BDC0D79-49CE-49BE-996A-AD6C78CBF532",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6018F59C-0ADE-4E16-920F-0A82F4747FF7",
+    "guides": [
+    ]
+  }
+}

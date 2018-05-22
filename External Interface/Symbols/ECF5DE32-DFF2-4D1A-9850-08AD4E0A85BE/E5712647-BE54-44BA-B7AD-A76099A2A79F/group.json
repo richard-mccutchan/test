@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "E5712647-BE54-44BA-B7AD-A76099A2A79F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9ED17CF-612B-4622-B2C9-9933DFE593B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7CE25674-9D3D-4154-9496-34E8607BDB79",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "27DED865-419E-487B-BFD2-A99866101872"
+    },
+    {
+      "class": "group",
+      "id": "A02859C3-3B4A-4AE4-83E1-DF0B3FB44360"
+    }
+  ],
+  "name": "ic_tick",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDA733AC-4B1F-4A01-9AF2-795DBA1359CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C8753203-52EB-4466-BC47-BBFFA18C94E6",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1143,
+  "do_objectID": "1F12477F-6E60-41E0-9CD8-F77EE65AA75E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDD9A984-45A0-4621-BDB4-300849917CAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48747B6A-7B89-4A51-B95B-26F920E3BA61",
+    "height": 48,
+    "width": 48,
+    "x": 20767,
+    "y": 685
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CAECCEEF-3F02-4687-B01F-8E9DAF86A18B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6C19E78B-1DA0-48E5-9FDB-10722A093B26"
+    },
+    {
+      "class": "group",
+      "id": "45B706FD-B678-453D-9D9F-950A1385D483"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 1,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 213.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 8,
+    "totalWidth": 960
+  },
+  "name": "Images / Profile_img_Avatar",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F542576-4027-4322-B512-C8AEC6291050",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B5AF7F36-559F-4C95-B02F-3C3AC68D8BE6",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FCE1691E-52A4-437E-8CED-86D506068652",
+    "guides": [
+    ]
+  }
+}

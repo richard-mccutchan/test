@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "77DC8035-804B-4D41-BDB8-5EDF4887746D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85EF80BA-1DDE-405D-89AE-BBD751E7F6E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28C44EAF-D170-40E6-9785-9F2EC33F9B9E",
+    "height": 469,
+    "width": 300,
+    "x": 11,
+    "y": 3228
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0C9FE0A7-5038-4C5F-BAE8-780865B64377"
+    },
+    {
+      "class": "group",
+      "id": "BC889026-543E-42EA-A2A1-C38D580B945A"
+    }
+  ],
+  "name": "Tile+Help Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C0446FE3-5CC7-4BEE-84B5-127F4B807388",
+      "opacity": 0.300000011920929
+    },
+    "do_objectID": "11829D4B-3F3A-485E-86C3-DF2878641901",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "_class": "group",
+  "do_objectID": "93399786-E8A3-473D-AEA5-12D74D90027B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 241,
+    "width": 274,
+    "x": 867,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F458EA7-D07B-4733-8F01-FAF1946398C5"
+    },
+    {
+      "class": "text",
+      "id": "17A00938-D1D1-4D99-990F-0369EC0A4E8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "036B2B77-BB4C-4616-BE89-E3208CB5407C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F16D8C80-7A1D-49B8-BAAD-7063627F77EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F94BBB44-9190-4A78-AFD2-9B42858DE1DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1653CFD8-E38E-444D-86E1-3D6CCCC2382A"
+    },
+    {
+      "class": "text",
+      "id": "BE8BCD6C-24D8-40B9-9016-17106240E808"
+    },
+    {
+      "class": "text",
+      "id": "7698CC9E-2AD6-450B-86B8-94AE7B53E94F"
+    },
+    {
+      "class": "text",
+      "id": "7841B89E-0F30-4001-B7F9-E056BB165F67"
+    },
+    {
+      "class": "text",
+      "id": "484F5DE5-86D5-46B7-AC12-E66D3A7FE77E"
+    },
+    {
+      "class": "text",
+      "id": "9CCA68CD-01E3-4154-AA78-8BE9E55F61B1"
+    },
+    {
+      "class": "text",
+      "id": "0DB018FB-1E4D-46AE-82A5-125A79C21E5F"
+    },
+    {
+      "class": "text",
+      "id": "39AAB847-3031-4637-9ABD-EB687C0AFAD7"
+    }
+  ],
+  "name": "Notifications",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
